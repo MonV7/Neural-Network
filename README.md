@@ -35,8 +35,8 @@ To run the code in this repository, you will need the following libraries:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/[your-username]/[your-repo-name].git
-    cd [your-repo-name]
+    git clone https://github.com/MonV7/Neural-Network.git
+    cd Neural-Network
     ```
 
 2.  **Install dependencies:**

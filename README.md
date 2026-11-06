@@ -60,4 +60,4 @@ python practicals/practical_1_perceptron.py
 ```
 
 ## 🤝 Author
-**[MON]** - [https://github.com/MonV7]
+**[MON]** - https://github.com/MonV7
